@@ -67,7 +67,7 @@ Security matters to the software – Software is susceptible to cyberattacks.
 Solution: Follow secure coding practices, conduct periodic security audits, and encryption baking. 
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+<b>Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.</b>
 
 Unit Testing – This tests independent components or functions of a program in isolation. It helps fix bugs early, ensures the reliability of the correct behavior, and makes debugging easier. Example: Testing a login function to make sure a user is authenticated properly.
 Integration Testing – Ensures that combined different modules or services perform just fine. It helps to detect problems in data flow, API interactions, or database connections. Example: Testing whether a payment gateway does processing well for transactions with the shopping cart system.
