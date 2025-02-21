@@ -2,19 +2,19 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+<b>#Part 1: Introduction to Software Engineering</b>
 
-Explain what software engineering is and discuss its importance in the technology industry.
+<b>Explain what software engineering is and discuss its importance in the technology industry.</b>
 
 Software engineering is the systematic application of engineering principles to software development, ensuring efficiency, reliability, and maintainability. This is important in the technology industry because it enables the creation of high-quality software programs that is instrumental to businesses, applications, and digital systems. It enhances productivity through methodologies like Agile and DevOps, ensures scalability, and reduces development costs by preventing errors. Additionally, it drives innovation, supports emerging technologies like AI and blockchain, and secures software against cyber threats. 
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+<b>Identify and describe at least three key milestones in the evolution of software engineering.</b>
 
 The evolution of software engineering has truly seen a collection of meaningful milestones. The term software engineering was initially introduced in 1968 at the NATO Software Engineering Conference, which strongly promoted structured development methods to tackle the software crisis. Object-Oriented Programming (OOP) became popular in the 1980s as well as the 1990s; languages such as C++ along with Java improved modularity and reusability. The Agile Manifesto of 2001 changed development by replacing inflexible Waterfall models and stressing flexibility, iterative progress, and customer collaboration. These milestones have shaped modern software engineering. Cloud computing, AI, and cybersecurity practices permit active development, enabling very efficient, scalable, and high-quality software development.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+<b>List and briefly explain the phases of the Software Development Life Cycle.</b>
 
 It constitutes an organized way of creating top-quality software along with achieving maximal efficiency. These phases comprise it entirely:
 Project scope, objectives, and budget are defined. Timeline is also defined to make certain of feasibility.
@@ -27,7 +27,7 @@ It has updates to keep it working, along with bug fixes and enhancements.
 SDLC guarantees software development is systematic to improve efficiency and reduce risks so user needs are met.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+<b>Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.</b>
 
 Waterfall versus Agile
 Waterfall is a linear and sequential approach to software development in which each phase (planning, designing, coding, testing, deploying, and maintaining) must be completely finished before moving on to the next one. It is rigid, requires much documentation, and will work best in those circumstances where the project requirements are well enough defined. Example: Development of medical devices or banking systems that require conformity to austere standards of regulatory compliance and tightly controlled planning.
@@ -38,7 +38,7 @@ Methodology: Stepwise Waterfall and iterative Agile.
 Customer Involvement: Waterfall has the end-user participating at the start and end of the cycle. 
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+<b>Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.</b>
 
 Software Developer
 A software developer builds applications, that is, their roles and responsibilities include designing, coding, and implementing software solutions. They analyze requirements, write clean and efficient code, debug issues, and collaborate with other team members to keep the software aligned with functional and technical specifications. They also integrate APIs, optimize performance, and maintain software through updates and security patches.
@@ -48,14 +48,14 @@ Project Manager (PM)
 A Project Manager is responsible for an entire software development process. He is responsible for ensuring that projects are completed on time, budgeted, and meet the desired business objectives. They clearly define the scope of the project, allocate resources accordingly, manage/mitigate risks, and facilitate communication between various stakeholders throughout the lifecycle of the project. PMs use methodologies like Agile or Waterfall to track progress, eliminate bottlenecks, and provide certainty that the developed software meets the clients'_needs and the goals of the organization. 
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+<b>Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.</b>
 
 The Integrated Development Environments (IDEs) improve the process of software development by offering a wealth of tools in one platform. IDEs get the development process done faster by enabling code editing, debugging, syntax highlighting, and with other features, boosting the overall productivity. IDEs help developers author code in an efficient manner and error-free because the tool offers real-time feedback with intelligent suggestions. They include Visual Studio Code, IntelliJ IDEA, and Eclipse.
 Version Control Systems are absolutely necessary for code change tracking, collaboration enabling, and data loss avoidances. Such tools permit multiple developers to work on the exact project without conflict, to keep their different versions of code, and if necessary - revert to previous states. VCS improve project management, reduce errors, and lead to a properly structured development process. They include Git (with GitHub, GitLab, or Bitbucket) and Apache Subversion (SVN).
  
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+<b>What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.</b>
 
 Managing complex codebases – Large projects may become difficult to maintain and debug.
 Solution: Use modular coding practices, follow design patterns, and keep clear documentation.
@@ -74,10 +74,10 @@ Integration Testing – Ensures that combined different modules or services perf
 System Testing – This evaluates the whole software application to make sure that the functional and performance requirements are met. Assures the security, scaling, and general behavior of the system. Example: Checking whether an e-commerce website can handle multiple users as a concurrent session.
 Acceptance Testing – It verifies the software's correctness in terms of business applicability and deployability. It also bolsters user satisfaction with regard to the client's specifications. Example: A client will test a CRM system before final approval to ensure it meets their workflow needs. 
 
-#Part 2: Introduction to AI and Prompt Engineering
+<b>#Part 2: Introduction to AI and Prompt Engineering</b>
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+<b>Define prompt engineering and discuss its importance in interacting with AI models.</b>
 
 Prompt engineering is the process of preparing precise inputs provided to guided AI models with the view of obtaining accurate and worthy responses. It can be regarded as structured interaction with AI whereby queries are timed to provide useful contexts to specify the most amenable format of desired outputs.
 Importance
@@ -86,7 +86,7 @@ Optimized AI Performance – Structured inputs lead to coherent output.
 Increases Productivity – Contributes towards automating tasks in writing, coding, and data analysis.
 Improves Accessibility – Allows technical and non-technical users alike to interface effectively with AI. 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+<b>Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.</b>
 
 Example of a Vague Prompt
 "Tell me about technology."
